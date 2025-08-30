@@ -59,8 +59,3 @@ I’m a **Master’s student in Data Science** at the University of Washington, 
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/riyosha-sharma)  
-
----
-
-## Fun Fact
-I love **combining analytics with storytelling**, whether it’s through insightful dashboards, interactive visualizations, or AI-powered tools that explain complex phenomena in simple ways.  
