@@ -1,15 +1,15 @@
-# Hi, I’m Riyosha Sharma 👋
+# Hi, I’m Riyosha!
 
-I’m a **Master’s student in Data Science** at the University of Washington, passionate about turning data into actionable insights, building AI/ML solutions, and exploring innovative ways to solve real-world problems.  
+I’m a **Master’s student in Data Science** at the University of Washington, passionate about turning data into actionable insights, building AI/ML solutions, and exploring innovative ways to solve real-world problems. Outside of  
 
 ---
 
 ## 🚀 About Me
 - 🎓 MS in Data Science | University of Washington (2024–2026)  
-- 📊 BSc in Mathematics (Hons) | Ashoka University (2020–2024)  
+- 📊 BSc in Mathematics (Hons) with minors in CS and Political Science | Ashoka University (2020–2024)  
 - 💻 Experienced in **Python, R, SQL, C**, and **data visualization**  
 - 🌐 Exploring **AI, ML pipelines, predictive analytics, and data engineering**  
-- 🔍 Interested in **aspect-based sentiment analysis, OD flow mapping, and fairness in LLMs**  
+- 🔍 Interested in creating data-driven sustainable solutions for businesses and ensuring safety and accountability of AI solutions. 
 
 ---
 
